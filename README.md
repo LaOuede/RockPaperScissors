@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LaOuede/Landing-page/blob/main/images/rock-paper-scissors-banner.png" width="90"/>
+  <img src="https://github.com/LaOuede/RockPaperScissors/blob/main/images/rock.png" width="90"/>
 </p>
 
 <h1 align="center">Rock, Paper, Scissors Game</h1>
@@ -38,7 +38,7 @@ I've acquired a lot of essential knowledge with:
 
 <h3 align="left">🖥 Display</h3>
 
-<img width="1005" alt="Rock Paper Scissors Game Screenshot" src="https://github.com/LaOuede/Landing-page/assets/114024436/6a27a6f2-e679-48d6-9c4e-637b3818556a">
+<img width="1005" alt="Rock Paper Scissors Game Screenshot" src="https://github.com/LaOuede/RockPaperScissors/blob/main/images/display.png">
 
 ---
 
